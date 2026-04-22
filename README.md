@@ -6,7 +6,7 @@ Ce projet est un dashboard d'analyse de données interactif focalisé sur la tra
 Il permet d'explorer les statistiques de survie, la démographie des passagers et les corrélations socio-économiques à travers des visualisations modernes et dynamiques.
 
 ## 🌐 Lien du Projet
-> **Lien direct :** [Consulter le Dashboard en direct](https://votre-pseudo.github.io/votre-depot/)
+> **Lien direct :** [Consulter le Dashboard en direct](https://an-steve.github.io/Dashboard-Titanic-/)
 
 ##  Aperçu
 Le dashboard est conçu comme une application monopage (SPA) utilisant des onglets pour séparer les différentes dimensions de l'analyse :
